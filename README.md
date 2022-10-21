@@ -32,8 +32,6 @@ Print the inverse of the array using np.linalg.inv
 <br>
 <br>
 <br>
-<br>
-<br>
 
 ## PROGRAM:
 Developed by : KAMALESH SV
