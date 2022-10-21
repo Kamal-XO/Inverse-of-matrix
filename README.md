@@ -17,6 +17,24 @@ Use nested lists to append list.
 ### Step 5: 
 Print the inverse of the array using np.linalg.inv
 
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
 ## PROGRAM:
 Developed by : KAMALESH SV
 Register No : 22001133
